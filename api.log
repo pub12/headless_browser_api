@@ -1,0 +1,175 @@
+2025-05-23 00:13:20,996 - app.core.logger - INFO - Approved IPs: ['127.0.0.1', '192.168.1.1', '10.0.0.1']
+2025-05-23 00:13:21,100 - app.core.logger - INFO - Starting server at 0.0.0.0:4113
+2025-05-23 04:07:46,277 - app.core.logger - INFO - Approved IPs: ['127.0.0.1', '192.168.1.1', '10.0.0.1']
+2025-05-23 04:07:46,375 - app.core.logger - INFO - Starting server at 0.0.0.0:4113
+2025-05-23 04:11:25,143 - app.core.logger - INFO - Request received from IP: 178.128.60.28
+2025-05-23 04:11:25,146 - app.core.logger - WARNING - Unauthorized access attempt from IP: 178.128.60.28
+2025-05-23 04:11:54,490 - app.core.logger - INFO - Request received from IP: 178.128.60.28
+2025-05-23 04:11:54,491 - app.core.logger - WARNING - Unauthorized access attempt from IP: 178.128.60.28
+2025-05-23 04:12:11,836 - app.core.logger - INFO - Request received from IP: 178.128.60.28
+2025-05-23 04:12:11,837 - app.core.logger - WARNING - Unauthorized access attempt from IP: 178.128.60.28
+2025-05-23 04:12:27,628 - app.core.logger - INFO - Approved IPs: ['127.0.0.1', '192.178.128.60.28']
+2025-05-23 04:12:27,694 - app.core.logger - INFO - Starting server at 0.0.0.0:4113
+2025-05-23 04:12:29,873 - app.core.logger - INFO - Request received from IP: 178.128.60.28
+2025-05-23 04:12:29,874 - app.core.logger - WARNING - Unauthorized access attempt from IP: 178.128.60.28
+2025-05-23 04:13:05,807 - app.core.logger - INFO - Approved IPs: ['127.0.0.1', '178.128.60.28']
+2025-05-23 04:13:05,875 - app.core.logger - INFO - Starting server at 0.0.0.0:4113
+2025-05-23 04:13:16,380 - app.core.logger - INFO - Request received from IP: 178.128.60.28
+2025-05-23 04:13:16,381 - app.core.logger - INFO - Access granted to IP: 178.128.60.28
+2025-05-23 04:15:08,387 - app.core.logger - INFO - Request received from IP: 202.171.178.3
+2025-05-23 04:15:08,388 - app.core.logger - WARNING - Unauthorized access attempt from IP: 202.171.178.3
+2025-05-23 04:15:57,660 - app.core.logger - INFO - Approved IPs: ['127.0.0.1', '178.128.60.28', '202.171.178.3']
+2025-05-23 04:15:57,763 - app.core.logger - INFO - Starting server at 0.0.0.0:4113
+2025-05-23 04:16:00,440 - app.core.logger - INFO - Request received from IP: 202.171.178.3
+2025-05-23 04:16:00,441 - app.core.logger - INFO - Access granted to IP: 202.171.178.3
+2025-05-23 04:31:43,918 - app.core.logger - INFO - Approved IPs: ['127.0.0.1', '178.128.60.28', '202.171.178.3']
+2025-05-23 04:31:44,015 - app.core.logger - INFO - Starting server at 0.0.0.0:4113
+2025-05-23 04:31:44,044 - app.core.logger - INFO - Initializing application resources
+2025-05-23 04:31:59,058 - app.core.logger - INFO - Request received from IP: 202.171.178.3
+2025-05-23 04:31:59,059 - app.core.logger - INFO - Access granted to IP: 202.171.178.3
+2025-05-23 04:32:35,691 - app.core.logger - INFO - Creating new browser instance
+2025-05-23 04:32:43,848 - app.core.logger - ERROR - Error creating browser: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libwoff1\                   ║
+║         libopus0\                                    ║
+║         libharfbuzz-icu0\                            ║
+║         libopenjp2-7\                                ║
+║         libwebpdemux2\                               ║
+║         libenchant-2-2\                              ║
+║         libsecret-1-0\                               ║
+║         libhyphen0\                                  ║
+║         libxt6\                                      ║
+║         libflite1\                                   ║
+║         libgbm1\                                     ║
+║         libgl1\                                      ║
+║         libegl1\                                     ║
+║         libevdev2\                                   ║
+║         libwayland-server0\                          ║
+║         libgles2\                                    ║
+║         gstreamer1.0-libav                           ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+2025-05-23 04:32:43,850 - app.core.logger - ERROR - Error fetching HTML: 
+2025-05-23 04:36:23,007 - app.core.logger - INFO - Approved IPs: ['127.0.0.1', '178.128.60.28', '202.171.178.3']
+2025-05-23 04:36:23,106 - app.core.logger - INFO - Starting server at 0.0.0.0:4113
+2025-05-23 04:36:23,144 - app.core.logger - INFO - Initializing application resources
+2025-05-23 04:36:31,324 - app.core.logger - INFO - Request received from IP: 202.171.178.3
+2025-05-23 04:36:31,326 - app.core.logger - INFO - Access granted to IP: 202.171.178.3
+2025-05-23 04:36:38,887 - app.core.logger - INFO - Creating new browser instance
+2025-05-23 04:36:43,333 - app.core.logger - ERROR - Error fetching HTML: Browser.new_context() got an unexpected keyword argument 'is_javascript_enabled'
+2025-05-23 04:36:43,344 - app.core.logger - INFO - Returned browser to pool. Pool size: 1
+2025-05-23 04:39:15,149 - app.core.logger - INFO - Reusing browser from pool
+2025-05-23 04:39:20,905 - app.core.logger - INFO - HTML fetched in 5.76 seconds
+2025-05-23 04:39:20,916 - app.core.logger - INFO - Returned browser to pool. Pool size: 1
+2025-05-23 09:03:09,105 - app.core.logger - INFO - Approved IPs: ['127.0.0.1', '178.128.60.28', '202.171.178.3']
+2025-05-23 09:03:09,206 - app.core.logger - INFO - Starting server at 0.0.0.0:4113
+2025-05-23 09:03:09,253 - app.core.logger - INFO - Initializing application resources
+2025-05-23 09:03:22,009 - app.core.logger - INFO - Creating new browser instance
+2025-05-23 09:03:28,568 - app.core.logger - INFO - HTML fetched in 6.56 seconds
+2025-05-23 09:03:28,572 - app.core.logger - INFO - Returned browser to pool. Pool size: 1
+2025-05-23 09:03:56,563 - app.core.logger - INFO - Reusing browser from pool
+2025-05-23 09:03:57,145 - app.core.logger - ERROR - Error fetching HTML: Page.goto: Unacceptable TLS certificate
+Call log:
+  - navigating to "https://rspcavic.org/adopt-a-pet/?adoptable%5Bmenu%5D%5Btype%5D=Dogs%20and%20Puppies&adoptable%5Bmenu%5D%5Blocation%5D=Burwood&adoptable%5Brange%5D%5Bage%5D=%3A2", waiting until "load"
+
+2025-05-23 09:03:57,146 - app.core.logger - INFO - Returned browser to pool. Pool size: 1
+2025-05-23 10:18:11,568 - app.core.logger - INFO - Loaded configuration from /home/pubs/browser/app/config/settings.ini
+2025-05-23 10:18:11,569 - app.core.logger - INFO - Ignore HTTPS errors: True
+2025-05-23 10:18:11,569 - app.core.logger - INFO - Approved IPs: ['127.0.0.1', '178.128.60.28', '202.171.178.3']
+2025-05-23 10:18:11,648 - app.core.logger - INFO - Starting server at 0.0.0.0:4113
+2025-05-23 10:18:11,692 - app.core.logger - INFO - Initializing application resources
+2025-05-23 10:18:49,972 - app.core.logger - INFO - Loaded configuration from /home/pubs/browser/app/config/settings.ini
+2025-05-23 10:18:49,973 - app.core.logger - INFO - Ignore HTTPS errors: True
+2025-05-23 10:18:49,974 - app.core.logger - INFO - Approved IPs: ['127.0.0.1', '178.128.60.28', '202.171.178.3']
+2025-05-23 10:18:50,059 - app.core.logger - INFO - Starting server at 0.0.0.0:4113
+2025-05-23 10:18:50,097 - app.core.logger - INFO - Initializing application resources
+2025-05-23 10:18:56,440 - app.core.logger - INFO - Creating new browser instance
+2025-05-23 10:19:08,985 - app.core.logger - INFO - HTML fetched in 12.54 seconds
+2025-05-23 10:19:08,994 - app.core.logger - INFO - Returned browser to pool. Pool size: 1
+2025-05-23 10:24:48,173 - app.core.logger - INFO - Reusing browser from pool
+2025-05-23 10:25:05,157 - app.core.logger - INFO - HTML fetched in 16.98 seconds
+2025-05-23 10:25:05,180 - app.core.logger - INFO - Returned browser to pool. Pool size: 1
+2025-05-23 11:31:25,539 - app.core.logger - INFO - Loaded configuration from /home/pubs/browser/app/config/settings.ini
+2025-05-23 11:31:25,540 - app.core.logger - INFO - Ignore HTTPS errors: True
+2025-05-23 11:31:25,541 - app.core.logger - INFO - Approved IPs: ['127.0.0.1', '178.128.60.28', '202.171.178.3']
+2025-05-23 11:31:25,628 - app.core.logger - INFO - Starting server at 0.0.0.0:4113
+2025-05-23 11:31:25,669 - app.core.logger - INFO - Initializing application resources
+2025-05-23 12:50:52,134 - app.core.logger - INFO - Creating new browser instance
+2025-05-23 12:51:12,561 - app.core.logger - INFO - HTML fetched in 20.43 seconds
+2025-05-23 12:51:12,572 - app.core.logger - INFO - Returned browser to pool. Pool size: 1
+2025-05-23 19:50:53,873 - app.core.logger - INFO - Reusing browser from pool
+2025-05-23 19:51:08,704 - app.core.logger - INFO - HTML fetched in 14.83 seconds
+2025-05-23 19:51:08,707 - app.core.logger - INFO - Returned browser to pool. Pool size: 1
+2025-05-24 00:20:43,641 - app.core.logger - INFO - Reusing browser from pool
+2025-05-24 00:20:55,594 - app.core.logger - INFO - HTML fetched in 11.95 seconds
+2025-05-24 00:20:55,595 - app.core.logger - INFO - Returned browser to pool. Pool size: 1
+2025-05-24 00:25:57,415 - app.core.logger - INFO - Reusing browser from pool
+2025-05-24 00:27:50,950 - app.core.logger - INFO - HTML fetched in 113.52 seconds
+2025-05-24 00:27:50,982 - app.core.logger - INFO - Returned browser to pool. Pool size: 1
+2025-05-24 00:50:40,236 - app.core.logger - INFO - Loaded configuration from /home/pubs/browser/app/config/settings.ini
+2025-05-24 00:50:40,237 - app.core.logger - INFO - Ignore HTTPS errors: True
+2025-05-24 00:50:40,237 - app.core.logger - INFO - Preserve img tags: True
+2025-05-24 00:50:40,238 - app.core.logger - INFO - Approved IPs: ['127.0.0.1', '178.128.60.28', '202.171.178.3']
+2025-05-24 00:50:40,339 - app.core.logger - INFO - Starting server at 0.0.0.0:4113
+2025-05-24 00:50:40,397 - app.core.logger - INFO - Initializing application resources
+2025-05-24 00:51:02,580 - app.core.logger - INFO - Creating new browser instance
+2025-05-24 00:51:34,970 - app.core.logger - ERROR - Error fetching HTML: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://rspcavic.org/adopt-a-pet/?adoptable%5Bmenu%5D%5Btype%5D=Dogs%20and%20Puppies&adoptable%5Bmenu%5D%5Blocation%5D=Burwood&adoptable%5Brange%5D%5Bage%5D=%3A2", waiting until "load"
+
+2025-05-24 00:51:35,003 - app.core.logger - INFO - Returned browser to pool. Pool size: 1
+2025-05-24 00:52:10,957 - app.core.logger - INFO - Reusing browser from pool
+2025-05-24 00:53:08,300 - app.core.logger - ERROR - Error fetching HTML: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://rspcavic.org/adopt-a-pet/?adoptable%5Bmenu%5D%5Btype%5D=Dogs%20and%20Puppies&adoptable%5Bmenu%5D%5Blocation%5D=Burwood&adoptable%5Brange%5D%5Bage%5D=%3A2", waiting until "load"
+
+2025-05-24 00:53:10,130 - app.core.logger - INFO - Returned browser to pool. Pool size: 1
+2025-05-24 13:07:43,755 - app.core.logger - INFO - Loaded configuration from /home/pubs/browser/app/config/settings.ini
+2025-05-24 13:07:43,757 - app.core.logger - INFO - Ignore HTTPS errors: True
+2025-05-24 13:07:43,757 - app.core.logger - INFO - Preserve img tags: True
+2025-05-24 13:07:43,758 - app.core.logger - INFO - Approved IPs: ['127.0.0.1', '178.128.60.28', '202.171.178.3']
+2025-05-24 13:07:43,862 - app.core.logger - INFO - Starting server at 0.0.0.0:4113
+2025-05-24 13:07:43,909 - app.core.logger - INFO - Initializing application resources
+2025-05-24 13:08:20,695 - app.core.logger - INFO - Creating new browser instance
+2025-05-24 13:08:30,859 - app.core.logger - INFO - HTML fetched in 10.16 seconds
+2025-05-24 13:08:30,867 - app.core.logger - INFO - Returned browser to pool. Pool size: 1
+2025-05-24 13:19:29,893 - app.core.logger - INFO - Reusing browser from pool
+2025-05-24 13:19:39,105 - app.core.logger - INFO - HTML fetched in 9.21 seconds
+2025-05-24 13:19:39,109 - app.core.logger - INFO - Returned browser to pool. Pool size: 1
+2025-05-24 13:20:18,988 - app.core.logger - INFO - Reusing browser from pool
+2025-05-24 13:20:24,160 - app.core.logger - INFO - HTML fetched in 5.17 seconds
+2025-05-24 13:20:24,168 - app.core.logger - INFO - Returned browser to pool. Pool size: 1
+2025-05-24 13:21:22,342 - asyncio - ERROR - Future exception was never retrieved
+future: <Future finished exception=Exception('Connection closed while reading from the driver')>
+Exception: Connection closed while reading from the driver
+2025-05-24 13:21:32,782 - app.core.logger - INFO - Loaded configuration from /home/pubs/browser/app/config/settings.ini
+2025-05-24 13:21:32,783 - app.core.logger - INFO - Ignore HTTPS errors: True
+2025-05-24 13:21:32,784 - app.core.logger - INFO - Preserve img tags: True
+2025-05-24 13:21:32,784 - app.core.logger - INFO - Approved IPs: ['127.0.0.1', '178.128.60.28', '202.171.178.3']
+2025-05-24 13:21:32,854 - app.core.logger - INFO - Starting server at 0.0.0.0:4113
+2025-05-24 13:21:32,890 - app.core.logger - INFO - Initializing application resources
+2025-05-24 19:50:44,323 - app.core.logger - INFO - Creating new browser instance
+2025-05-24 19:50:52,653 - app.core.logger - INFO - HTML fetched in 8.33 seconds
+2025-05-24 19:50:52,653 - app.core.logger - INFO - Returned browser to pool. Pool size: 1
+2025-05-25 12:50:45,678 - app.core.logger - INFO - Reusing browser from pool
+2025-05-25 12:51:00,978 - app.core.logger - INFO - HTML fetched in 15.30 seconds
+2025-05-25 12:51:00,978 - app.core.logger - INFO - Returned browser to pool. Pool size: 1
+2025-05-25 19:50:36,389 - app.core.logger - INFO - Reusing browser from pool
+2025-05-25 19:50:41,565 - app.core.logger - INFO - HTML fetched in 5.18 seconds
+2025-05-25 19:50:41,565 - app.core.logger - INFO - Returned browser to pool. Pool size: 1
+2025-05-26 12:50:38,092 - app.core.logger - INFO - Reusing browser from pool
+2025-05-26 12:50:52,426 - app.core.logger - INFO - HTML fetched in 14.33 seconds
+2025-05-26 12:50:52,426 - app.core.logger - INFO - Returned browser to pool. Pool size: 1
+2025-05-26 19:50:28,802 - app.core.logger - INFO - Reusing browser from pool
+2025-05-26 19:50:36,845 - app.core.logger - INFO - HTML fetched in 8.04 seconds
+2025-05-26 19:50:36,845 - app.core.logger - INFO - Returned browser to pool. Pool size: 1
+2025-05-27 12:50:30,253 - app.core.logger - INFO - Reusing browser from pool
+2025-05-27 12:50:43,994 - app.core.logger - INFO - HTML fetched in 13.74 seconds
+2025-05-27 12:50:43,997 - app.core.logger - INFO - Returned browser to pool. Pool size: 1
