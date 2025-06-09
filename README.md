@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hello World IP-Protected API
 
 A FastAPI application that checks if the client's IP is in the list of approved IPs before responding with "hello world". This application includes both API endpoints and a web frontend for testing.
@@ -134,3 +135,6 @@ This structure is designed to be easily extensible:
 - Add new API endpoints in `app/api/endpoints/`
 - Add new web pages in `app/web/templates/`
 - Add new configuration in `app/config/settings.py` 
+=======
+# headless_browser_api
+>>>>>>> 663c8169c7d9282a59c59b49f3f307e47500d639
